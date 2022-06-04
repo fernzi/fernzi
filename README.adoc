@@ -32,8 +32,8 @@ into a force capable of something wonderful.
 
 ---
 
-https://fern.zapata.cc[Blog and gallery]
+image:{icon}/github/605080[Fern's GitHub, 22, link=https://github.com/fernzi, float=right]
+image:{icon}/gitlab/605080[Fern's GitLab, 22, link=https://gitlab.com/fernzi, float=right]
+image:{icon}/instagram/605080[Fern's Instagram, 22, link=https://www.instagram.com/fernzikins/, float=right]
 
-image:{icon}/github/605080[Fern's GitHub, 24, link="https://github.com/fernzi"]
-image:{icon}/gitlab/605080[Fern's GitLab, 24, link="https://gitlab.com/fernzi"]
-image:{icon}/instagram/605080[Fern's Instagram, 24, link="https://www.instagram.com/fernzikins/"]
+https://fern.zapata.cc[Blog and gallery]
