@@ -1,6 +1,8 @@
 = Heyo, This is Fern!
-:badge: https://img.shields.io/static/v1?style=flat-square&color=605080&logoColor=EAEAEA&
+:color: 58A6FF
+:badge: https://img.shields.io/static/v1?style=flat-square&color={color}&logoColor=FAFAFA&
 :icon: https://simpleicons.now.sh
+:icon-size: 20
 
 image:{badge}label=&message=Blender&logo=blender[Blender]
 image:{badge}label=&message=Inkscape&logo=inkscape[Inkscape]
@@ -37,31 +39,31 @@ ifdef::env-github[]
 ++++
 <a href="https://github.com/fernzi">
 	<img
-		src="{icon}/github/605080"
-		alt="Fern's GitHub" width="22" align="right">
+		src="{icon}/github/{color}"
+		alt="Fern's GitHub" width="{icon-size}" align="right">
 </a>
 <a href="https://gitlab.com/fernzi">
 	<img
-		src="{icon}/gitlab/605080"
-		alt="Fern's GitLab" width="22" align="right">
+		src="{icon}/gitlab/{color}"
+		alt="Fern's GitLab" width="{icon-size}" align="right">
 </a>
 <a href="https://instagram.com/fernzikins/">
 	<img
-		src="{icon}/instagram/605080"
-		alt="Fern's Instagram" width="22" align="right">
+		src="{icon}/instagram/{color}"
+		alt="Fern's Instagram" width="{icon-size}" align="right">
 </a>
 ++++
 endif::[]
 
 ifndef::env-github[]
 [.right]
-image::{icon}/github/605080[Fern's GitHub, 22, link=https://github.com/fernzi]
+image::{icon}/github/{color}[Fern's GitHub, {icon-size}, link=https://github.com/fernzi]
 
 [.right]
-image::{icon}/gitlab/605080[Fern's GitLab, 22, link=https://gitlab.com/fernzi]
+image::{icon}/gitlab/{color}[Fern's GitLab, {icon-size}, link=https://gitlab.com/fernzi]
 
 [.right]
-image::{icon}/instagram/605080[Fern's Instagram, 22, link=https://www.instagram.com/fernzikins/]
+image::{icon}/instagram/{color}[Fern's Instagram, {icon-size}, link=https://www.instagram.com/fernzikins/]
 endif::[]
 
-https://fern.zapata.cc[Blog and gallery]
+https://fern.zapata.cc[*Blog and gallery*]
