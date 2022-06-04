@@ -32,6 +32,28 @@ into a force capable of something wonderful.
 
 ---
 
+ifdef::env-github[]
+[subs=attributes]
+++++
+<a href="https://github.com/fernzi">
+	<img
+		src="{icon}/github/605080"
+		alt="Fern's GitHub" width="22" align="right">
+</a>
+<a href="https://gitlab.com/fernzi">
+	<img
+		src="{icon}/gitlab/605080"
+		alt="Fern's GitLab" width="22" align="right">
+</a>
+<a href="https://instagram.com/fernzikins/">
+	<img
+		src="{icon}/instagram/605080"
+		alt="Fern's Instagram" width="22" align="right">
+</a>
+++++
+endif::[]
+
+ifndef::env-github[]
 [.right]
 image::{icon}/github/605080[Fern's GitHub, 22, link=https://github.com/fernzi]
 
@@ -40,5 +62,6 @@ image::{icon}/gitlab/605080[Fern's GitLab, 22, link=https://gitlab.com/fernzi]
 
 [.right]
 image::{icon}/instagram/605080[Fern's Instagram, 22, link=https://www.instagram.com/fernzikins/]
+endif::[]
 
 https://fern.zapata.cc[Blog and gallery]
