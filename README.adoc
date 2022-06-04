@@ -1,0 +1,39 @@
+= Heyo, This is Fern!
+:badge: https://img.shields.io/static/v1?style=flat-square&color=605080&logoColor=EAEAEA&
+:icon: https://simpleicons.now.sh
+
+image:{badge}label=&message=Blender&logo=blender[Blender]
+image:{badge}label=&message=Inkscape&logo=inkscape[Inkscape]
+image:{badge}label=&message=Krita&logo=krita[Krita]
+image:{badge}label=&message=ArmorPaint[ArmorPaint]
+image:{badge}label=&message=FFMPEG&logo=ffmpeg[FFMPEG]
+image:{badge}label=&message=Emacs&logo=gnuemacs[Emacs]
+image:{badge}label=&message=Git&logo=git[Git] +
+image:{badge}label=&message=C[C]
+image:{badge}label=&message=C%2B%2B[C++]
+image:{badge}label=&message=Scheme[Scheme]
+image:{badge}label=&message=Python&logo=python[Python]
+image:{badge}label=&message=Bash&logo=gnubash[Bash]
+image:{badge}label=&message=Go&logo=go[Go]
+image:{badge}label=&message=Kotlin&logo=kotlin[Kotlin]
+image:{badge}label=&message=Ruby&logo=ruby[Ruby]
+image:{badge}label=&message=Haskell&logo=haskell[Haskell]
+image:{badge}label=&message=JavaScript&logo=javascript[JavaScript]
+
+An artist, and more than one type of engineer.
+
+Love making beautiful things
+through a union of computing and artistry.
+Because I believe that,
+despite it's terrible track record,
+the technology from beyond the transistor age
+can be turned from a soul-devouring horror,
+into a force capable of something wonderful.
+
+---
+
+https://fern.zapata.cc[Blog and gallery]
+
+image:{icon}/github/605080[Fern's GitHub, 24, link="https://github.com/fernzi"]
+image:{icon}/gitlab/605080[Fern's GitLab, 24, link="https://gitlab.com/fernzi"]
+image:{icon}/instagram/605080[Fern's Instagram, 24, link="https://www.instagram.com/fernzikins/"]
