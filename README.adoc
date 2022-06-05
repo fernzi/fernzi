@@ -35,6 +35,15 @@ the technology from beyond the transistor age
 can be turned from a soul-devouring horror,
 into a force capable of something wonderful.
 
+== Like what I do?
+
+Cause I know your heart is as kind as mine is humble,
+I'd appreciate if you could give me a tip.
+So feel free to send one on Ko-fi,
+so I can keep being awesome:
+
+image::https://ko-fi.com/img/githubbutton_sm.svg[Ko-fi, link=https://ko-fi.com/Z8Z6D2W2P]
+
 ---
 
 ifdef::env-github[]
@@ -55,6 +64,11 @@ ifdef::env-github[]
 		src="{icon}/instagram/{icon-bg}"
 		alt="Fern's Instagram" width="{icon-sz}" align="right">
 </a>
+<a href="https://twitter.com/fernzikins">
+	<img
+		src="{icon}/twitter/{icon-bg}"
+		alt="Fern's Twitter" width="{icon-sz}" align="right">
+</a>
 ++++
 endif::[]
 
@@ -67,6 +81,9 @@ image::{icon}/gitlab/{icon-bg}[Fern's GitLab, {icon-sz}, link=https://gitlab.com
 
 [.right]
 image::{icon}/instagram/{icon-bg}[Fern's Instagram, {icon-sz}, link=https://www.instagram.com/fernzikins/]
+
+[.right]
+image::{icon}/twitter/{icon-bg}[Fern's Twitter, {icon-sz}, link=https://twitter.com/fernzikins]
 endif::[]
 
 https://fern.zapata.cc[*Blog and Gallery*]
