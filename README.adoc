@@ -42,7 +42,7 @@ I'd appreciate if you could give me a tip.
 So feel free to send one on Ko-fi,
 so I can keep being awesome:
 
-image::https://ko-fi.com/img/githubbutton_sm.svg[Ko-fi, link=https://ko-fi.com/Z8Z6D2W2P]
+image::img/kofi-button.svg[Ko-fi, link=https://ko-fi.com/Z8Z6D2W2P]
 
 ---
 
