@@ -1,1 +1,7 @@
-*.html
+*
+!*/
+
+!.gitignore
+!/LICENSE
+!/README*.adoc
+!/README*.md
