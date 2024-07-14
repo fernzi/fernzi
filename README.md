@@ -14,23 +14,23 @@ appears in this *passionate* profile. Passionate.
 ## Tools and Languages
 
 <p>
-	<img src="https://cdn.simpleicons.org/blender" height="48" />
-	<img src="https://cdn.simpleicons.org/inkscape" height="48" />
-	<img src="https://cdn.simpleicons.org/krita" height="48" />
-	<img src="https://cdn.simpleicons.org/ffmpeg" height="48" />
-	<img src="https://cdn.simpleicons.org/gnuemacs" height="48" />
-	<img src="https://cdn.simpleicons.org/git" height="48" />
+	<img src="https://cdn.simpleicons.org/blender" height="32" />
+	<img src="https://cdn.simpleicons.org/inkscape" height="32" />
+	<img src="https://cdn.simpleicons.org/krita" height="32" />
+	<img src="https://cdn.simpleicons.org/ffmpeg" height="32" />
+	<img src="https://cdn.simpleicons.org/gnuemacs" height="32" />
+	<img src="https://cdn.simpleicons.org/git" height="32" />
 </p>
 
 <p>
-	<img src="https://cdn.simpleicons.org/c" height="48" />
-	<img src="https://cdn.simpleicons.org/cplusplus" height="48" />
-	<img src="https://cdn.simpleicons.org/go" height="48" />
-	<img src="https://cdn.simpleicons.org/python" height="48" />
-	<img src="https://cdn.simpleicons.org/gnubash" height="48" />
-	<img src="https://cdn.simpleicons.org/ruby" height="48" />
-	<img src="https://cdn.simpleicons.org/javascript" height="48" />
-	<img src="https://cdn.simpleicons.org/perl" height="48" />
+	<img src="https://cdn.simpleicons.org/c" height="32" />
+	<img src="https://cdn.simpleicons.org/cplusplus" height="32" />
+	<img src="https://cdn.simpleicons.org/go" height="32" />
+	<img src="https://cdn.simpleicons.org/python" height="32" />
+	<img src="https://cdn.simpleicons.org/gnubash" height="32" />
+	<img src="https://cdn.simpleicons.org/ruby" height="32" />
+	<img src="https://cdn.simpleicons.org/javascript" height="32" />
+	<img src="https://cdn.simpleicons.org/perl" height="32" />
 </p>
 
 ## Like What I Do?
@@ -46,9 +46,9 @@ So feel free to send one on Ko-fi, so I can keep being awesome
 <hr/>
 
 [Blog and Gallery][home]
-[<img src="https://cdn.simpleicons.org/github/0969da/4493f8" alt="Fern's Github" height="24" align="right" />][ghub]
-[<img src="https://cdn.simpleicons.org/gitlab/0969da/4493f8" alt="Fern's Gitlab" height="24" align="right" />][glab]
-[<img src="https://cdn.simpleicons.org/x/0969da/4493f8" alt="Fern's X/Twitter" height="24" align="right" />][xitt]
+[<img src="https://cdn.simpleicons.org/github/0969da/4493f8" alt="Fern's Github" height="20" align="right" />][ghub]
+[<img src="https://cdn.simpleicons.org/gitlab/0969da/4493f8" alt="Fern's Gitlab" height="20" align="right" />][glab]
+[<img src="https://cdn.simpleicons.org/x/0969da/4493f8" alt="Fern's X/Twitter" height="20" align="right" />][xitt]
 
 [home]: http://fern.zapata.cc
 [ghub]: http://github.com/fernzi
